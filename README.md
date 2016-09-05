@@ -20,7 +20,7 @@
   
     > git checkout -b release-X.X.X develop
     
-  * (Suggestion) Tạo Changelog cho Project: Mình có 1 file bump-version.sh giúp tự động quá trình này
+  * (Suggestion) Tạo Changelog cho Project: Mình có 1 file bump-version.sh(file này mình thao khảo, có source trong file) giúp tự động quá trình này
   
     > sh bump-version.sh
     
